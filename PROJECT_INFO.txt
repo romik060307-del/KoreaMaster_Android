@@ -1,0 +1,8 @@
+Project: Korea Master Android
+Package: id.rkdesain.koreamaster
+Min Android API: 23 (Android 6.0)
+Compile SDK: 35
+Target SDK: 34
+APK output (GitHub Actions): app/build/outputs/apk/debug/app-debug.apk
+Offline content: app/src/main/assets/index.html
+Update source: https://koreamasterbyrk.netlify.app/
